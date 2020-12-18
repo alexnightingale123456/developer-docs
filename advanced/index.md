@@ -20,3 +20,4 @@ The following are some advanced customisation options.
 * **[Logging](/advanced/logging/)**<br>Learn how to use the logging helper functions in WHMCS
 * **[Widgets](/advanced/widgets/)**<br>Learn how to create widgets using AbstractWidget
 * **[JSON File](/advanced/json-file/)**<br>Provide meta information for modules
+* **[Module Class Autoloading](/advanced/class-auto-loading/)**<br>Details the automatic loading of classes when stored in a prescribed way within WHMCS modules.
