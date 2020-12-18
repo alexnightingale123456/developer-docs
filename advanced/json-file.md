@@ -1,5 +1,6 @@
 +++
 prev = "/advanced/widgets/"
+next = "/advanced/class-auto-loading"
 title = "JSON File"
 weight = 70
 

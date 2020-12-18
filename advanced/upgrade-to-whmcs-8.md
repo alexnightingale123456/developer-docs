@@ -1,5 +1,6 @@
 +++
 prev = "/intro"
+next = "/advanced/creating-pages/"
 title = "Upgrade to WHMCS 8.0"
 toc = true
 weight = 6

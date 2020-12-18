@@ -1,5 +1,6 @@
 +++
 prev = "/advanced/widgets/"
+next = "/advanced/json-file/"
 title = "Admin Area"
 weight = 70
 
